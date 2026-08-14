@@ -81,7 +81,7 @@ Six gut bacterial genera were compared between healthy individuals and Crohn's d
 
 **Figure 1.** Grouped bar chart comparing relative abundance of six gut bacterial genera between healthy individuals (green) and Crohn's disease patients (red), generated in Python using matplotlib.
 
-![Microbiome comparison chart](gut_microbiome_health_vs_crohns.png)
+![Microbiome comparison chart](Health_vs_Crohn's.png)
 
 ---
 
